@@ -1,5 +1,15 @@
-# 💫 About Me:
-🔭 I’m currently working on TechnoConnect — a Discord-based peer learning and student community platform with web integration.<br><br>👯 I’m looking to collaborate on Web Development, ASP.NET projects, and student-focused tech communities.<br><br>🤝 I’m looking for help with System Design, scalable backend development, and real-world project architecture.<br><br>🌱 I’m currently learning Advanced DSA, ASP.NET, and modern full-stack development.<br><br>💬 Ask me about C++, Web Development, Discord integrations, and building student tech platforms.<br><br>⚡ Fun fact: I enjoy turning simple ideas into real, useful tech projects that help people connect and learn.<br>
+### 💫 About Me:
+🔭 I'm currently working on **TutorNear** — an AI-powered, hyperlocal tutor discovery and booking platform (React.js + Firebase).
+
+👯 I'm looking to collaborate on **Generative AI / Prompt Engineering projects**, **Full Stack Web Development (React.js, Node.js)**, and **student-focused tech communities**.
+
+🤝 I'm looking for help with **System Design**, **scalable backend development**, and **real-world AI/ML & GenAI project architecture**.
+
+🌱 I'm currently learning **Advanced DSA**, **ASP.NET**, and **modern full-stack + GenAI development**.
+
+💬 Ask me about **Python, Generative AI, React.js, Node.js, Firebase, REST APIs, and building student tech platforms**.
+
+⚡ Fun fact: I enjoy turning simple ideas into real, useful tech products — from AI-powered recommendation features to community platforms that help people connect and learn.<br>
 
 
 ## 🌐 Socials:
