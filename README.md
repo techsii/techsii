@@ -91,11 +91,11 @@ Built and styled responsive front-end components across multiple web projects an
 
 ## 📊 GitHub Stats
 
-![](https://github-readme-stats.vercel.app/api?username=techsii&theme=radical&hide_border=false&include_all_commits=true&count_private=false)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=techsii&theme=radical&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+![](https://github-readme-stats-eight-theta.vercel.app/api?username=techsii&theme=radical&hide_border=false&include_all_commits=true&count_private=false)
+![](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=techsii&theme=radical&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=techsii&theme=radical&no-frame=false&no-bg=true&margin-w=4" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy-tau-nine.vercel.app/?username=techsii&theme=radical&no-frame=false&no-bg=true&margin-w=4" alt="GitHub Trophies" />
 </p>
 
 ---
